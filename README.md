@@ -1,3 +1,6 @@
+My solution to the Gilded Rose Kata
+========================
+
 Gilded Rose Kata in Ruby
 ========================
 
